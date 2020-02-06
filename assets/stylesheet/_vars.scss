@@ -1,0 +1,13 @@
+// Variables
+$primary: #4b9b7c;
+$secondary: #19242e;
+$secondaryLight: rgba($secondary, 0.7);
+$fontFamily: "Lato", sans-serif;
+
+// Placeholder
+%flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
